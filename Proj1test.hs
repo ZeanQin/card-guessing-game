@@ -1,6 +1,3 @@
---  File     : Proj1test.hs
---  Author   : Peter Schachte
---  Purpose  : Test program for proj1 project
 
 module Main (main, guessTest) where
 
