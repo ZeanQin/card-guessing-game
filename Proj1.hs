@@ -1,8 +1,3 @@
--- File             : Proj1.hs
--- Author           : Zean Qin
--- Student ID       : 604030
--- Student Username : zeanq
--- Purpose          : Solution for Project 1
 
 -- | This code implements a number of important data types and functions that 
 --   are intended to be imported as a module to complete the card guessing 
