@@ -1,7 +1,3 @@
---  File     : Card.hs
---  Author   : Peter Schachte
---  Purpose  : An implementation of a playing card type
-
 -- | This code implements a playing card type, including types for
 --   ranks and suits.  All three types are in the Eq, Ord, Bounded,
 --   Enum, Show, and Read classes.  Note that we use a compact
